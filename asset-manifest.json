@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/search-your-contact/static/css/main.8e822ca0.chunk.css",
+    "main.js": "/search-your-contact/static/js/main.1f1df109.chunk.js",
+    "main.js.map": "/search-your-contact/static/js/main.1f1df109.chunk.js.map",
+    "runtime~main.js": "/search-your-contact/static/js/runtime~main.1b742777.js",
+    "runtime~main.js.map": "/search-your-contact/static/js/runtime~main.1b742777.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/search-your-contact/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/search-your-contact/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/search-your-contact/index.html",
+    "precache-manifest.cd8f3aa41870f83684b172dfa201051c.js": "/search-your-contact/precache-manifest.cd8f3aa41870f83684b172dfa201051c.js",
+    "service-worker.js": "/search-your-contact/service-worker.js",
+    "static/css/main.8e822ca0.chunk.css.map": "/search-your-contact/static/css/main.8e822ca0.chunk.css.map"
+  }
+}
